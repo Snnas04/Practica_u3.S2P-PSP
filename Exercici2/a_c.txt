@@ -1,0 +1,2 @@
+{"dniSender":"a","message":"hola c","dniTarget":"c"}
+{"dniSender":"c","message":"estic molt be","dniTarget":"a"}
